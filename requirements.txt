@@ -1,0 +1,24 @@
+streamlit
+langchain
+faiss-cpu
+ollama
+PyPDF2
+transformers
+sentence-transformers
+deep-translator
+
+# 🚀 Run Locally
+# Clone the repo:
+
+# git clone https://github.com/yourusername/CultureCast-AI.git
+# cd CultureCast-AI
+
+# Install requirements:
+# pip install -r requirements.txt
+
+# Run Ollama model:
+# ollama serve
+# ollama run tinyllama
+
+# Start the app:
+# streamlit run app.py
